@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1490908538 source:c:\users\carlaeliana\desktop\tp_2_vargas\f_genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1490908538 c:\users\carlaeliana\desktop\tp_2_vargas\headers.h
+
+1490908538 source:c:\users\carlaeliana\desktop\tp_2_vargas\f_persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1490908538 source:c:\users\carlaeliana\desktop\tp_2_vargas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1478868862 source:c:\users\alumno\desktop\tp_2_vargas\f_genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1478868862 c:\users\alumno\desktop\tp_2_vargas\headers.h
+
+1478868862 source:c:\users\alumno\desktop\tp_2_vargas\f_persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1478868862 source:c:\users\alumno\desktop\tp_2_vargas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
