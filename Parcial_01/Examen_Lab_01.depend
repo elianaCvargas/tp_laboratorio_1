@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1493944121 source:c:\users\alumno\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usuarios.h"
+	"Productos.h"
+
+1461846544 c:\users\alumno\desktop\tp_2_cascara\funciones.h
+
+1493935188 source:c:\users\alumno\desktop\tp_2_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493940455 source:c:\users\alumno\desktop\tp_2_cascara\fusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+
+1493943819 c:\users\alumno\desktop\tp_2_cascara\usuarios.h
+
+1493943199 source:c:\users\alumno\desktop\tp_2_cascara\fproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Productos.h"
+
+1493944301 c:\users\alumno\desktop\tp_2_cascara\productos.h
+
+1493945620 source:e:\examen_lab01\fproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Productos.h"
+
+1493943820 e:\examen_lab01\usuarios.h
+
+1493944302 e:\examen_lab01\productos.h
+
+1493940456 source:e:\examen_lab01\fusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+
+1493944122 source:e:\examen_lab01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usuarios.h"
+	"Productos.h"
+
+1493945334 source:e:\examen_lab01\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1461846544 e:\examen_lab01\funciones.h
+
