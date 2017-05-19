@@ -1,0 +1,347 @@
+# depslib dependency file v1.0
+1493944121 source:c:\users\alumno\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usuarios.h"
+	"Productos.h"
+
+1461846544 c:\users\alumno\desktop\tp_2_cascara\funciones.h
+
+1493935188 source:c:\users\alumno\desktop\tp_2_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493940455 source:c:\users\alumno\desktop\tp_2_cascara\fusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+
+1493943819 c:\users\alumno\desktop\tp_2_cascara\usuarios.h
+
+1493943199 source:c:\users\alumno\desktop\tp_2_cascara\fproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Productos.h"
+
+1493944301 c:\users\alumno\desktop\tp_2_cascara\productos.h
+
+1493945620 source:e:\examen_lab01\fproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Productos.h"
+
+1493943820 e:\examen_lab01\usuarios.h
+
+1493944302 e:\examen_lab01\productos.h
+
+1493940456 source:e:\examen_lab01\fusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+
+1493944122 source:e:\examen_lab01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usuarios.h"
+	"Productos.h"
+
+1493945334 source:e:\examen_lab01\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1461846544 e:\examen_lab01\funciones.h
+
+1494357910 source:g:\examen_lab01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usuarios.h"
+	"Productos.h"
+
+1493946234 g:\examen_lab01\usuarios.h
+
+1494293804 g:\examen_lab01\productos.h
+
+1494351714 source:g:\examen_lab01\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
+1461846544 g:\examen_lab01\funciones.h
+
+1494358212 source:g:\examen_lab01\fusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Validaciones.h"
+
+1494355282 source:g:\examen_lab01\fproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Productos.h"
+	"Validaciones.h"
+
+1494350298 g:\examen_lab01\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1494397615 source:c:\users\gabrielapatricia\desktop\examen_lab01\fusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Validaciones.h"
+
+1494396234 c:\users\gabrielapatricia\desktop\examen_lab01\usuarios.h
+
+1494350298 c:\users\gabrielapatricia\desktop\examen_lab01\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1494438705 source:c:\users\gabrielapatricia\desktop\examen_lab01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usuarios.h"
+	"Productos.h"
+
+1494396234 c:\users\gabrielapatricia\desktop\examen_lab01\productos.h
+
+1494351714 source:c:\users\gabrielapatricia\desktop\examen_lab01\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
+1494438479 source:c:\users\gabrielapatricia\desktop\examen_lab01\fproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Productos.h"
+	"Validaciones.h"
+
+1494449132 source:g:\new\examen_lab01\fproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Productos.h"
+	"Validaciones.h"
+
+1494396236 g:\new\examen_lab01\usuarios.h
+
+1494449132 g:\new\examen_lab01\productos.h
+
+1494350298 g:\new\examen_lab01\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1494397616 source:g:\new\examen_lab01\fusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Validaciones.h"
+
+1494449132 source:g:\new\examen_lab01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usuarios.h"
+	"Productos.h"
+
+1494351714 source:g:\new\examen_lab01\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
+1494531411 source:c:\users\carlaeliana\desktop\new\examen_lab01\fusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Validaciones.h"
+
+1494530070 c:\users\carlaeliana\desktop\new\examen_lab01\usuarios.h
+
+1494350298 c:\users\carlaeliana\desktop\new\examen_lab01\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1494351714 source:c:\users\carlaeliana\desktop\new\examen_lab01\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
+1494531411 source:c:\users\carlaeliana\desktop\new\examen_lab01\fproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Productos.h"
+	"Validaciones.h"
+
+1494531535 c:\users\carlaeliana\desktop\new\examen_lab01\productos.h
+
+1494527916 source:c:\users\carlaeliana\desktop\new\examen_lab01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usuarios.h"
+	"Productos.h"
+
+1494351714 source:e:\last\examen_lab01\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
+1494350298 e:\last\examen_lab01\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1494543916 source:e:\last\examen_lab01\fproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Productos.h"
+	"Validaciones.h"
+
+1494541992 e:\last\examen_lab01\usuarios.h
+
+1494531536 e:\last\examen_lab01\productos.h
+
+1494543148 source:e:\last\examen_lab01\fusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Validaciones.h"
+
+1494532096 source:e:\last\examen_lab01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usuarios.h"
+	"Productos.h"
+
+1494543916 source:g:\last\examen_lab01\fproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Productos.h"
+	"Validaciones.h"
+
+1494551954 g:\last\examen_lab01\usuarios.h
+
+1494798904 g:\last\examen_lab01\productos.h
+
+1494350298 g:\last\examen_lab01\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1494543148 source:g:\last\examen_lab01\fusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Validaciones.h"
+
+1494351714 source:g:\last\examen_lab01\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
+1494351714 source:c:\users\carlaeliana\desktop\last\examen_lab01\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
+1494350298 c:\users\carlaeliana\desktop\last\examen_lab01\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1495139054 source:c:\users\carlaeliana\desktop\last\examen_lab01\fproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Productos.h"
+	"Validaciones.h"
+
+1495122336 c:\users\carlaeliana\desktop\last\examen_lab01\usuarios.h
+
+1495129667 c:\users\carlaeliana\desktop\last\examen_lab01\productos.h
+
+1495123218 source:c:\users\carlaeliana\desktop\last\examen_lab01\fusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Validaciones.h"
+
+1495138765 source:c:\users\carlaeliana\desktop\last\examen_lab01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usuarios.h"
+	"Productos.h"
+
+1495139056 source:f:\last\examen_lab01\fproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Productos.h"
+	"Validaciones.h"
+
+1495122338 f:\last\examen_lab01\usuarios.h
+
+1495129668 f:\last\examen_lab01\productos.h
+
+1494350298 f:\last\examen_lab01\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1495152674 source:f:\last\examen_lab01\fusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Validaciones.h"
+
+1494351714 source:f:\last\examen_lab01\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
+1495153170 source:f:\last\examen_lab01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usuarios.h"
+	"Productos.h"
+

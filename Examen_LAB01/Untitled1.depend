@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1494276094 source:g:\examen_lab01\fproductos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+	"Productos.h"
+
+1493946234 g:\examen_lab01\usuarios.h
+
+1493946234 g:\examen_lab01\productos.h
+
+1494276532 source:g:\examen_lab01\fusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+
+1494276094 source:g:\examen_lab01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usuarios.h"
+	"Productos.h"
+
+1493945334 source:g:\examen_lab01\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1461846544 g:\examen_lab01\funciones.h
+
